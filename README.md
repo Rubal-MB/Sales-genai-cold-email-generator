@@ -10,5 +10,16 @@ For instance, if Nike is hiring a Principal Software Engineer, instead of going 
 
 <video src="https://github.com/app/cclip.mov" controls muted playsinline width="640"></video>
 
+SET UP 
 
+To get started, we first need to get an API_KEY. Inside app/.env update the value of OPENAI_API_KEY with the API_KEY you created.
 
+To get started, first install the dependencies using:
+
+ pip install -r requirements.txt
+Run the streamlit app:
+
+streamlit run app/main.py
+Copyright (C) RUBAL-MB Inc. All rights reserved.
+
+Additional Terms: This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
