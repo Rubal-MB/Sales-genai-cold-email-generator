@@ -8,7 +8,7 @@ This tool automates the creation of cold emails for service-based companies. By 
 
 For instance, if Nike is hiring a Principal Software Engineer, instead of going through costly recruitment, a company like Atliq can propose a dedicated engineer. A business development executive (e.g., Mohan) can use this tool to generate a personalized cold email showcasing Atliq’s expertise instantly.
 
-<video src="https://github.com/app/cclip.mov"controls muted playsinline width="640"></video>
+<video src="https://github.com/app/cclip.mov" controls muted playsinline width="640"></video>
 
 
 
